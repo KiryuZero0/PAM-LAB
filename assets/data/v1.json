@@ -1,0 +1,147 @@
+{
+  "home": {
+    "user": {
+      "name": "Sidra",
+      "notifications": 3
+    },
+    "continueWatching": [
+      {
+        "id": "course_uiux_essentials",
+        "title": "UI/UX Design Essentials",
+        "institute": "Tech Innovations University",
+        "rating": 4.9,
+        "progress": 79,
+        "image": "https://images.unsplash.com/photo-1581091215367-59ab6b90d1e5?auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "id": "course_graphic_design_fundamentals",
+        "title": "Graphic Design Fundamentals",
+        "institute": "Creative Arts Institute",
+        "rating": 4.7,
+        "progress": 35,
+        "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900f9?auto=format&fit=crop&w=800&q=60"
+      }
+    ],
+    "categories": [
+      { "id": "cat_graphic_design", "name": "Graphic Design" },
+      { "id": "cat_user_interface", "name": "User Interface" },
+      { "id": "cat_user_experience", "name": "User Experience" },
+      { "id": "cat_animation", "name": "Animation" },
+      { "id": "cat_game_design", "name": "Game Design" }
+    ],
+    "suggestions": [
+      {
+        "id": "course_typography_layout",
+        "title": "Typography and Layout Design",
+        "institute": "Visual Communication College",
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "id": "course_branding_identity",
+        "title": "Branding and Identity Design",
+        "institute": "Innovation and Design School",
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "id": "course_web_design_fundamentals",
+        "title": "Web Design Fundamentals",
+        "institute": "Web Development Lab",
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=60"
+      }
+    ],
+    "topCourses": [
+      {
+        "id": "course_motion_graphics",
+        "title": "Animation and Motion Graphics",
+        "institute": "Animation Institute of Digital Arts",
+        "rating": 4.7,
+        "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "id": "course_game_design_dev",
+        "title": "Game Design and Development",
+        "institute": "Game Development Academy",
+        "rating": 4.4,
+        "image": "https://images.unsplash.com/photo-1590608897129-79da98d159e9?auto=format&fit=crop&w=800&q=60"
+      },
+      {
+        "id": "course_product_design_innovation",
+        "title": "Product Design and Innovation",
+        "institute": "Product Design Institute",
+        "rating": 4.9,
+        "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=800&q=60"
+      }
+    ]
+  },
+  "details": {
+    "course": {
+      "id": "course_typography_layout",
+      "title": "Typography and Layout Design",
+      "institute": "Visual Communication College",
+      "price": 35,
+      "currency": "USD",
+      "enrolledStudents": 3400,
+      "rating": 4.7,
+      "lectures": 52,
+      "duration": "4 Weeks",
+      "certification": "Online Certificate",
+      "thumbnail": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=60",
+      "previewVideo": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "description": "Visual Communication College's Typography and Layout Design course explores the art and science of typography and layout composition. Learn how to effectively use typefaces, hierarchy, alignment, and grid systems to create visually compelling designs. Gain hands-on experience in editorial design, branding, and digital layouts.",
+      "skills": [
+        "Typography",
+        "Layout composition",
+        "Branding",
+        "Visual communication",
+        "Editorial design"
+      ],
+      "courseDetails": {
+        "lectures": "50+ Lectures",
+        "learningTime": "4 Weeks",
+        "certification": "Online Certificate"
+      },
+      "instructor": {
+        "name": "Dr. Amanda Greene",
+        "title": "Senior Lecturer in Visual Communication",
+        "bio": "Dr. Amanda Greene has over 12 years of experience in graphic design and communication. She specializes in design systems, editorial layout, and typography. She has taught at multiple design universities and collaborated with international creative studios.",
+        "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?auto=format&fit=crop&w=800&q=60"
+      },
+      "lessons": [
+        { "id": "lesson_01", "title": "Introduction to Typography", "duration": "12m", "isPreview": true },
+        { "id": "lesson_02", "title": "Understanding Typefaces and Fonts", "duration": "18m", "isPreview": false },
+        { "id": "lesson_03", "title": "Hierarchy and Visual Flow", "duration": "25m", "isPreview": false },
+        { "id": "lesson_04", "title": "Layout and Grid Systems", "duration": "30m", "isPreview": false },
+        { "id": "lesson_05", "title": "Designing for Print and Digital Media", "duration": "22m", "isPreview": false }
+      ],
+      "relatedCourses": [
+        {
+          "id": "course_branding_identity",
+          "title": "Branding and Identity Design",
+          "institute": "Innovation and Design School",
+          "price": 29,
+          "rating": 4.4,
+          "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "id": "course_web_design_fundamentals",
+          "title": "Web Design Fundamentals",
+          "institute": "Web Development Lab",
+          "price": 30,
+          "rating": 4.9,
+          "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "id": "course_product_design_innovation",
+          "title": "Product Design and Innovation",
+          "institute": "Product Design Institute",
+          "price": 40,
+          "rating": 4.9,
+          "image": "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    }
+  }
+}
