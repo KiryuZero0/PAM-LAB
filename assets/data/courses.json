@@ -1,0 +1,136 @@
+[
+    {
+        "title":  "Web Design Fundamentals",
+        "subtitle":  "Web Development University",
+        "image":  "assets/images/WEB.png",
+        "rating":  4.9,
+        "price":  35,
+        "description":  "Learn the core principles of modern web design.",
+        "skills":  [
+                       "Responsive Layout",
+                       "UI Principles",
+                       "Typography"
+                   ],
+        "lectures":  45,
+        "weeks":  4,
+        "certificateType":  "Online Certificate",
+        "id":  "course_web_design_fundamentals"
+    },
+    {
+        "title":  "Branding \u0026 Identity Design",
+        "subtitle":  "Innovation \u0026 Design School",
+        "image":  "assets/images/BRAND.png",
+        "rating":  4.4,
+        "price":  29,
+        "description":  "Master the art of creating brand identities.",
+        "skills":  [
+                       "Logo Design",
+                       "Color Theory",
+                       "Brand Strategy"
+                   ],
+        "lectures":  38,
+        "weeks":  3,
+        "certificateType":  "Professional Certificate",
+        "id":  "course_branding_identity"
+    },
+    {
+        "title":  "Typography and Layout Design",
+        "subtitle":  "Visual Communication College",
+        "image":  "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.7,
+        "price":  35,
+        "description":  "Explore typography, hierarchy, and grid systems to create engaging designs.",
+        "skills":  [
+                       "Typography",
+                       "Layout composition",
+                       "Editorial design"
+                   ],
+        "lectures":  52,
+        "weeks":  4,
+        "certificateType":  "Online Certificate",
+        "id":  "course_typography_layout"
+    },
+    {
+        "title":  "UI/UX Design Essentials",
+        "subtitle":  "Tech Innovations University",
+        "image":  "https://images.unsplash.com/photo-1581091215367-59ab6b90d1e5?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.9,
+        "price":  39,
+        "description":  "Foundations of user interface and user experience design.",
+        "skills":  [
+                       "User Interface",
+                       "User Experience",
+                       "Wireframing"
+                   ],
+        "lectures":  40,
+        "weeks":  4,
+        "certificateType":  "Online Certificate",
+        "id":  "course_uiux_essentials"
+    },
+    {
+        "title":  "Graphic Design Fundamentals",
+        "subtitle":  "Creative Arts Institute",
+        "image":  "https://images.unsplash.com/photo-1580894732444-8ecded7900f9?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.7,
+        "price":  28,
+        "description":  "Learn composition, color, and typography basics.",
+        "skills":  [
+                       "Graphic Design",
+                       "Color Theory",
+                       "Typography"
+                   ],
+        "lectures":  36,
+        "weeks":  3,
+        "certificateType":  "Online Certificate",
+        "id":  "course_graphic_design_fundamentals"
+    },
+    {
+        "title":  "Animation and Motion Graphics",
+        "subtitle":  "Animation Institute of Digital Arts",
+        "image":  "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.7,
+        "price":  42,
+        "description":  "Create engaging animations and motion graphics.",
+        "skills":  [
+                       "Animation",
+                       "Motion Graphics"
+                   ],
+        "lectures":  48,
+        "weeks":  5,
+        "certificateType":  "Professional Certificate",
+        "id":  "course_motion_graphics"
+    },
+    {
+        "title":  "Game Design and Development",
+        "subtitle":  "Game Development Academy",
+        "image":  "https://images.unsplash.com/photo-1590608897129-79da98d159e9?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.4,
+        "price":  40,
+        "description":  "Design game mechanics and build prototypes.",
+        "skills":  [
+                       "Game Design",
+                       "Prototyping"
+                   ],
+        "lectures":  44,
+        "weeks":  5,
+        "certificateType":  "Professional Certificate",
+        "id":  "course_game_design_dev"
+    },
+    {
+        "title":  "Product Design and Innovation",
+        "subtitle":  "Product Design Institute",
+        "image":  "https://images.unsplash.com/photo-1605379399642-870262d3d051?auto=format\u0026fit=crop\u0026w=800\u0026q=60",
+        "rating":  4.9,
+        "price":  45,
+        "description":  "Innovate through user-centered product design.",
+        "skills":  [
+                       "Product Design",
+                       "UX",
+                       "Prototyping"
+                   ],
+        "lectures":  50,
+        "weeks":  4,
+        "certificateType":  "Professional Certificate",
+        "id":  "course_product_design_innovation"
+    }
+]
